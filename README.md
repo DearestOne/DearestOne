@@ -1,7 +1,7 @@
 # Hello, I'm Natthaphon.👋
 
 ## 🚀 About Me
-I'm a student at Silpakorn University. I enjoy solving complex problems and am continuously learning new skills to improve my skill and personal projects.
+I'm a student at Silpakorn University. I enjoy solving complex problems and am continuously learning new skills to improve my skill and projects.
 
 ## 🛠 Skills
 - Programming Language: Java, Python, C#
