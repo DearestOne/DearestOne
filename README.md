@@ -12,4 +12,4 @@ I'm a student at Silpakorn University. I enjoy solving complex problems and am c
 - Explore Cloud Computing: I’m learning about cloud platforms like AWS and Google Cloud to understand how scalable, cloud-based solutions can improve software efficiency and accessibility.
 
 ## 🔗 Find Me Here
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natthaphon-rueangwaraphit-983970310/)
